@@ -1,4 +1,8 @@
 .DS_Store
+datasets/facades_third/backupTrainA
+datasets/facades_third/backupTrainB
+datasets/facades_third/backupTestA
+datasets/facades_third/backupTestB
 debug*
 checkpoints/
 results/
